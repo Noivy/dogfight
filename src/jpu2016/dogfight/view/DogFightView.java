@@ -11,7 +11,7 @@ public class DogFightView {
 		this.lavie = lavie;
 	}
 	public DogFightView() {
-		System.out.println("bited");
+		System.out.println("bitede");
 	}
 	
 }
