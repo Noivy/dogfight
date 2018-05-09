@@ -10,5 +10,8 @@ public class DogFightView {
 	public void setLavie(int lavie) {
 		this.lavie = lavie;
 	}
+	public DogFightView() {
+		System.out.println("bite");
+	}
 	
 }
